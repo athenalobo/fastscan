@@ -23,5 +23,4 @@ jobs:
           docker run -v $(pwd):/fastScan/sourceCode castimaging/fast-scan-java-cli /fastScan/sourceCode -n $git_folder
           
 
-          
-# This file automates fastscan to be run on source code as soon as a commit is made to main
+
