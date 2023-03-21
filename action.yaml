@@ -1,4 +1,5 @@
 name: Run Fast Scan
+description: Automates fastscan on source code in github repo every time a commit is done on main
 
 on:
   push:
