@@ -3,7 +3,7 @@ description: Automates fastscan on source code in github repo every time a commi
 
 branding:
   icon: check
-  color: '#00ff00'
+  color: green
   label: 0.0.1
 
   
